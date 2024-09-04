@@ -1,0 +1,48 @@
+.Add{
+margin-top: 50px;
+}
+input{
+width: 200px;
+height: 30px;
+border-top: none;
+border-left: none;
+border-right: none;
+border-top-left-radius: 10px;
+border-bottom-right-radius:10px ;
+margin: 20px
+}
+button{
+height: 30px;
+width: 100px;
+font-size: 1rem;
+margin-bottom: 30px;
+font-weight: 700;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+button:hover{
+background-color: rgba(128, 128, 128, 0.662);
+border: none;
+color: red;
+}
+input:hover{
+  background-color:rgba(128, 128, 128, 0.662);
+}
+input:active{
+font-weight: 700;
+}
+.list,h2{
+color: brown;
+}
+.message{
+margin-top: 10px;
+font-size: 1.3rem;
+font-weight: 600;
+color: blueviolet;
+
+}
+.b2{
+margin-top: 80px;
+
+
+}
